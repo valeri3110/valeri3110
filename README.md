@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Valeriia Reshetniak
-- 😍 I’m interested in Front End Development 
-- 👀 I’m looking forward to collaborate!
+- 😍 I’m a Front End Developer
 - 📫 How to reach me: 
-                      Email: valeriia.reshetniak@hneu.net
+                      
                       Telegram: https://t.me/Valeri3110
                      
 
